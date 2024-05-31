@@ -55,3 +55,7 @@ align  | align  | align
 ### Это апельсин
 
 ![orange](orange.png)
+
+
+Изменения для урока 6 GeekBrains
+
